@@ -9,8 +9,8 @@
 支持**1.9~1.16.5**的所有客户端 
 服务器地址：**xing-yue.top**
 QQ交流群：**947673785**
-官网地址：**[http://www.xing-yue.top/](http://www.xing-yue.top/)**
-卫星地图：**[http://map.xing-yue.top/](http://map.xing-yue.top/)**
+官网地址：[**http://www.xing-yue.top/**](http://www.xing-yue.top/)
+卫星地图：[**http://map.xing-yue.top/**](http://map.xing-yue.top/)
 
 如果你觉得星月服务器有趣，或者想给予星月一点支持，请到 [爱发电](https://afdian.net/@yupenbob) 帮助我们！
 
